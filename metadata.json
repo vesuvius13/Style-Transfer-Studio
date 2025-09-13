@@ -1,0 +1,5 @@
+{
+  "name": "Style Transfer Studio",
+  "description": "An application that uses AI to convert your photos into various artistic styles like pencil drawings, oil paintings, or anime. Upload an image, choose a style, and let the AI create a masterpiece.",
+  "requestFramePermissions": []
+}
